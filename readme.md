@@ -1,11 +1,3 @@
-## Google Maps API Key
-
-AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk
-
-**WARNING**
-DO NOT SHARE IT WITH ANYONE
-
-## FontAwesome Link
-
-https://kit.fontawesome.com/c939d0e917.js
+This is a map for show every Starbucks in LA, i use Google Maps API. You can enter a valid zip code and show the places with this zip code!
+You can see the site here: https://starlocator.imfast.io/
 
